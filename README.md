@@ -1,2 +1,5 @@
 # hello-world
-jsut another repository
+
+Hi Humans,
+
+my Name is Josh and I have a dog.
